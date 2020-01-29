@@ -122,4 +122,4 @@ while TorG is ("t"):
     tRate=5.2884
   else:
     break
-print(tRate)
+    
